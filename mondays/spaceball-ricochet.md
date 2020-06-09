@@ -2,61 +2,74 @@
 VERSE
 G              G
 I'm just a man
-   C 
+    C 
 I understand the wind
     D 
 And all the things
-              G
+                G
 That make the children cry
 
 G              
 With my Les Paul
-  C
+    C
 I know I'm small
     D
 But I enjoy living
-      G
+  G
 Anyway
+
 G
 Book after book
         C
 I get hooked
+                D
 Everytime the writer
-         G
+          G
 Talks me like a friend
 
 CHORUS
 G
 What can I do
-        
+                  C
 We just live in a zoo
-All I do is play
+                D
+All I do is pla-ay
                  G
 The spaceball ricochet
 
 VERSE
 G
 Deep in my heart
-          C
+           C
 There's a house
+          D
 That can hold
        G
-Almost all of you
+Almost all of youz
 
+G
 I bought a car
        C
 It was old but kind
-
+   D         
 I gave it my mind
+        G
 And it disappeared
 
+G
 I love a girl
+           C
 She is a changeless angel
+         D
 She's a city it's a pity
-That I'm like me
+       G
+That I'm like me yeah
 
 CHORUS
+G                 G
 I said how can I lay
-When all I do is play
+           C             D
+When all I do is plaaa-aay
+                 G
 The spaceball ricochet
 ```
