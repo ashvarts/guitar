@@ -1,7 +1,7 @@
 # Spaceball Ricochet by T-Rex
 ```
 VERSE
-G              G
+G              
 I'm just a man
     C 
 I understand the wind
