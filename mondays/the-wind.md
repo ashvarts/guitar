@@ -12,9 +12,10 @@ G        A           G  A    D
 Em        G        Em       G  A4 A
      But never-ne ever-ne  ver-ne-ver
 
-I never wanted water once
-
-No, never, never, never
+G      A            G  A  D   
+     I never wanted water once
+Em       G     Em A    G  D
+     No, never-ne ever-ne-ver
 I listen to my words
 But they fall far below
 I let my music take me where
